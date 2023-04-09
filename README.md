@@ -37,9 +37,10 @@ If the output is 1, then the led glows.
 ### 
 Program:
 ```
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber: 
+Developed by: tamizh selvan.R
+RegisterNumber: 212222230158
 HALF ADDER  
 
 module HalfAdder(a,b,sum,carry);
@@ -61,6 +62,8 @@ endmodule
 
 ```
 ## LOGIC SYMBOL:
+
+
 [211144326-1577e59c-846f-4c49-8ca5-c8ef6e6fe8e6](https://user-images.githubusercontent.com/121148386/230773304-098aa7ad-5040-41fb-8144-7c7caabb252a.png)
 
 
@@ -70,15 +73,40 @@ endmodule
 ## HALFADDER
 
 
+![228281863-61e4a539-83c7-4533-9147-27cc0907d9ce](https://user-images.githubusercontent.com/121148386/230775270-c0bd7e8e-519d-4a97-b1c1-2efb3886ba17.png)
+
+
 ## FULLADDER
 
-![211144284-aaa660c1-6d8f-41db-b6e1-ee6f4af68420](https://user-images.githubusercontent.com/121148386/230773405-cb3ebb40-867c-42f3-b90e-c6b357b93be3.png)
 
+![228282005-5af5d457-ef17-4ca3-b6e2-927e3b425e23](https://user-images.githubusercontent.com/121148386/230775280-ce3d0408-ed14-43db-ad57-8ab18a622634.png)
 
 ### RTL
 ### TIMING DIAGRAM
 
+## HALFADDER
+
+![228282470-c9baee44-896e-4d8c-ae4a-f56bcd56836a](https://user-images.githubusercontent.com/121148386/230775308-5fd63b02-a1f5-4d33-b8e6-065f2cd373f5.png)
+
+## FULLADDER
+
+
+
+
+
 
 ### TRUTH TABLE 
 
+## HALFADDER
+
+![228282753-06896acf-5fbb-4022-801c-e1a6bc0474a3](https://user-images.githubusercontent.com/121148386/230775367-d3f21c35-19ef-4d1a-a01e-e495cd1b07e6.png)
+
+## FULLADDER
+
+
+![228282840-fb15b2fa-f483-49b7-be53-d4a148fab6f2](https://user-images.githubusercontent.com/121148386/230775415-21425694-4748-4f1b-94a2-641935f423fd.png)
+
+
 ### Result:
+
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.

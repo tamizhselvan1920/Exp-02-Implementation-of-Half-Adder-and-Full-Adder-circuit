@@ -60,14 +60,6 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule 
 
 
-```
-## LOGIC SYMBOL:
-
-
-[211144326-1577e59c-846f-4c49-8ca5-c8ef6e6fe8e6](https://user-images.githubusercontent.com/121148386/230773304-098aa7ad-5040-41fb-8144-7c7caabb252a.png)
-
-
-
 ### Output:
 
 ## HALFADDER
@@ -91,6 +83,7 @@ endmodule
 ## FULLADDER
 
 
+![228282564-50a2b6f0-adfc-4664-a177-751da8fdedab](https://user-images.githubusercontent.com/121148386/232475171-04d8ad48-47c5-4a16-a9f8-5fb2b7d4daa7.png)
 
 
 

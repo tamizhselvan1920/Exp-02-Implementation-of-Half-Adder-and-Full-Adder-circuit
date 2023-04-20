@@ -90,11 +90,13 @@ endmodule
 
 ### TRUTH TABLE 
 
-## HALFADDER![211144749-1be6a19e-cce0-4a0a-ba9d-8a9002825425](https://user-images.githubusercontent.com/121148386/233364048-07fc6ded-54e9-415e-a9f5-cddf90d38576.png)
+## HALFADDER
+![211144749-1be6a19e-cce0-4a0a-ba9d-8a9002825425](https://user-images.githubusercontent.com/121148386/233364048-07fc6ded-54e9-415e-a9f5-cddf90d38576.png)
 
 
  
-## FULLADDER![211144794-f2431619-1b89-4e89-bf9f-83a53f9e9704](https://user-images.githubusercontent.com/121148386/233364080-5f4bdce1-32a2-4acf-9b4b-be0417aad2eb.png)
+## FULLADDER
+![211144794-f2431619-1b89-4e89-bf9f-83a53f9e9704](https://user-images.githubusercontent.com/121148386/233364080-5f4bdce1-32a2-4acf-9b4b-be0417aad2eb.png)
 
 
 

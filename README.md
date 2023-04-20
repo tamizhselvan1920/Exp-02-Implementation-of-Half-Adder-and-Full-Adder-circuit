@@ -34,7 +34,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
+
 Program:
 ```
 
@@ -58,47 +58,47 @@ output sum,carry;
 assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule 
-
+```
 
 ### Output:
 
 ## HALFADDER
+![211144407-20f20114-731f-4bf7-941f-d9c71c1938c2](https://user-images.githubusercontent.com/121148386/233363891-3a89e7ea-4fe2-4753-9905-cbc49aa3e2d0.png)
 
 
-![228281863-61e4a539-83c7-4533-9147-27cc0907d9ce](https://user-images.githubusercontent.com/121148386/230775270-c0bd7e8e-519d-4a97-b1c1-2efb3886ba17.png)
-
+ 
 
 ## FULLADDER
 
+![211144284-aaa660c1-6d8f-41db-b6e1-ee6f4af68420](https://user-images.githubusercontent.com/121148386/233363950-529d88f9-3df4-4a18-b111-db8e41edf504.png)
 
-![228282005-5af5d457-ef17-4ca3-b6e2-927e3b425e23](https://user-images.githubusercontent.com/121148386/230775280-ce3d0408-ed14-43db-ad57-8ab18a622634.png)
-
+ 
 ### RTL
 ### TIMING DIAGRAM
 
 ## HALFADDER
 
-![228282470-c9baee44-896e-4d8c-ae4a-f56bcd56836a](https://user-images.githubusercontent.com/121148386/230775308-5fd63b02-a1f5-4d33-b8e6-065f2cd373f5.png)
+ ![211144550-2a30a7d3-ec8f-43bd-bcfe-033d28603e56](https://user-images.githubusercontent.com/121148386/233363994-aa58a3c3-2281-4ac2-a897-7285d21098aa.png)
 
 ## FULLADDER
 
 
-![228282564-50a2b6f0-adfc-4664-a177-751da8fdedab](https://user-images.githubusercontent.com/121148386/232475171-04d8ad48-47c5-4a16-a9f8-5fb2b7d4daa7.png)
+ ![211144645-274f8455-3fad-4f94-bd23-a480404e71da](https://user-images.githubusercontent.com/121148386/233364016-937f841f-e671-49a7-b353-009b5f0adcb7.png)
 
 
 
 
 ### TRUTH TABLE 
 
-## HALFADDER
-
-![228282753-06896acf-5fbb-4022-801c-e1a6bc0474a3](https://user-images.githubusercontent.com/121148386/230775367-d3f21c35-19ef-4d1a-a01e-e495cd1b07e6.png)
-
-## FULLADDER
+## HALFADDER![211144749-1be6a19e-cce0-4a0a-ba9d-8a9002825425](https://user-images.githubusercontent.com/121148386/233364048-07fc6ded-54e9-415e-a9f5-cddf90d38576.png)
 
 
-![228282840-fb15b2fa-f483-49b7-be53-d4a148fab6f2](https://user-images.githubusercontent.com/121148386/230775415-21425694-4748-4f1b-94a2-641935f423fd.png)
+ 
+## FULLADDER![211144794-f2431619-1b89-4e89-bf9f-83a53f9e9704](https://user-images.githubusercontent.com/121148386/233364080-5f4bdce1-32a2-4acf-9b4b-be0417aad2eb.png)
 
+
+
+ 
 
 ### Result:
 
